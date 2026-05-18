@@ -1,0 +1,9 @@
+*.duckdb
+*.duckdb.wal
+.env
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+data/tiger/
+data/eff_atlas.csv
